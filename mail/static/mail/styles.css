@@ -1,0 +1,46 @@
+textarea {
+    min-height: 400px;
+}
+
+body {
+    background-color: #3F3F3F;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.email_container {
+    margin: 10px;
+    padding: 15px;
+    border-radius: 20px;
+    color: #000000;
+    text-transform: capitalize;
+}
+
+.container-mid {
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.container-small {
+    border: solid;
+    border-radius: 5px;
+    border-color: #DDDDDD;
+    margin: 5px;
+    padding: 5px;
+    box-shadow: 5px 0px 5px 0px #DDDDDD;
+}
+
+h2 {
+    text-transform: capitalize;
+}
+
+.email_info {
+    display: inline-block;
+}
+
+.email_button {
+    margin-left: 5px;
+}

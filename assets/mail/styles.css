@@ -1,0 +1,15 @@
+textarea {
+    min-height: 400px;
+}
+
+.email_container {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: aqua;
+}
+
+#test {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
